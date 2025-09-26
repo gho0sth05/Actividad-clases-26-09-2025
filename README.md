@@ -76,4 +76,43 @@ La empresa se dedica al diseño, producción artesanal y venta de muñecos tejid
 *Justificación técnica:* CRM permite segmentar y automatizar campañas, mejorando retención.
 
 ---
+### 3.5 Logística y envíos
+
+*Rol:* Gestionar despachos y seguimiento de pedidos.
+
+*Digitalización:* Integración con APIs de transportadoras (ShipStation, Envíame).
+
+*Software propuesto:* Middleware en Node.js (Express/NestJS) o Python (FastAPI) para conectar tienda y transportadoras.
+
+*IoT/Hardware:* Etiquetas QR para trazabilidad en almacén.
+
+*Justificación técnica:* Integraciones API automatizan procesos, reducen errores y aumentan confianza del cliente.
+
+---
+
+### 3.6 Contabilidad y facturación
+
+*Rol:* Cumplir normatividad y generar reportes.
+
+*Digitalización:* Facturación electrónica y contabilidad automatizada.
+
+*Software propuesto:* Alegra (SaaS, facturación electrónica en LATAM) o QuickBooks.
+
+*IoT/Hardware:* No requerido.
+
+*Justificación técnica:* SaaS contables locales cumplen legislación y simplifican reportes.
+
+---
+
+## 4. Justificación técnica global
+
+Las herramientas elegidas combinan *SaaS escalables* (Shopify, HubSpot, Alegra) con *ERP modular open-source* (Odoo), lo que ofrece:
+
+* *Escalabilidad:* Crece con la empresa sin reestructurar sistemas.
+* *Costo-eficiencia:* Inicia con SaaS básicos y evoluciona hacia integraciones avanzadas.
+* *Integraciones seguras:* APIs estandarizadas y middleware en Node.js/Python.
+* *Protección de la producción artesanal:* IoT en inventario y ambiente cuida materias primas críticas.
+
+En conclusión, la digitalización con este stack potencia la *eficiencia operativa, la trazabilidad y la experiencia del cliente*, manteniendo la esencia artesanal del crochet.
+
 
