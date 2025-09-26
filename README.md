@@ -1,10 +1,17 @@
 # Informe Digitalización (Procesos, Software e IoT) — Proyecto: Empresa de Muñecos de Crochet
+---
+**INSTITUCIÓN:** Servicio Nacional de Aprendizaje – SENA / Centro de Biotecnología  
+**PROGRAMA:** Análisis y Desarrollo de Software  
+**APRENDIZ:** Laura Fonseca, Juan Jose Bocanegra, Karen gonzalez
+**INSTRUCTOR:** Esteban Hernandez  
+**FICHA:** 3203082  
+---
 
 ## 1. Contexto
 
-La empresa se dedica al diseño, producción artesanal y venta de muñecos tejidos en crochet. Sus procesos principales incluyen la adquisición de materias primas (hilos, relleno, accesorios), la producción artesanal, la gestión de pedidos, la comercialización y la logística de distribución.
+La empresa se dedica al diseño, producción artesanal y venta de muñecos tejidos en crochet. Sus procesos principales tienen la adquisición de materias primas que son hilos, relleno y accesorios, la producción artesanal, la gestión de pedidos, la comercialización y la logística de distribución.
 
-## 2. Inventario de Procesos Analizados
+## 2. Inventario de Procesos 
 
 * **Ventas y marketing digital**: Tienda online, redes sociales, pasarelas de pago.
 * **Gestión de inventario y materias primas**: Control de stock, alertas de reabastecimiento.
@@ -28,4 +35,4 @@ La empresa se dedica al diseño, producción artesanal y venta de muñecos tejid
 **Justificación técnica:** SaaS como Shopify ofrecen escalabilidad y rapidez, mientras WooCommerce brinda control total en entornos económicos.
 
 ---
-s
+
